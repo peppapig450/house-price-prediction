@@ -1,6 +1,6 @@
 # House Price Prediction
 
-I am using miniforge3 with Python 3.8 on Ubuntu 20.04.3 lts but should work on any OS or arch.
+I am using miniforge3 with Python 3.8 on Ubuntu 20.04.3 LTS but should work on any OS or arch.
 
 ## Installing Anaconda/Conda
 
